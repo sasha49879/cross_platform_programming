@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "/Users/sashashvydanenko/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/sashashvydanenko/Desktop/crossplatforms/lab1_Cross_platform/lab1_Cross_platform/lab1_Cross_platform.csproj",
+      "projectName": "lab1_Cross_platform",
+      "projectPath": "/Users/sashashvydanenko/Desktop/crossplatforms/lab1_Cross_platform/lab1_Cross_platform/lab1_Cross_platform.csproj",
+      "packagesPath": "/Users/sashashvydanenko/.nuget/packages/",
+      "outputPath": "/Users/sashashvydanenko/Desktop/crossplatforms/lab1_Cross_platform/lab1_Cross_platform/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/sashashvydanenko/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.404/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

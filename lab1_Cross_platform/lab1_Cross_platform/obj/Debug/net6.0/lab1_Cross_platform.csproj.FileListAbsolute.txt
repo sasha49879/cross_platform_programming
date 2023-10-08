@@ -1,0 +1,15 @@
+/Users/sashashvydanenko/Desktop/crossplatforms/lab1_Cross_platform/lab1_Cross_platform/bin/Debug/net6.0/lab1_Cross_platform
+/Users/sashashvydanenko/Desktop/crossplatforms/lab1_Cross_platform/lab1_Cross_platform/bin/Debug/net6.0/lab1_Cross_platform.deps.json
+/Users/sashashvydanenko/Desktop/crossplatforms/lab1_Cross_platform/lab1_Cross_platform/bin/Debug/net6.0/lab1_Cross_platform.runtimeconfig.json
+/Users/sashashvydanenko/Desktop/crossplatforms/lab1_Cross_platform/lab1_Cross_platform/bin/Debug/net6.0/lab1_Cross_platform.dll
+/Users/sashashvydanenko/Desktop/crossplatforms/lab1_Cross_platform/lab1_Cross_platform/bin/Debug/net6.0/lab1_Cross_platform.pdb
+/Users/sashashvydanenko/Desktop/crossplatforms/lab1_Cross_platform/lab1_Cross_platform/obj/Debug/net6.0/lab1_Cross_platform.csproj.AssemblyReference.cache
+/Users/sashashvydanenko/Desktop/crossplatforms/lab1_Cross_platform/lab1_Cross_platform/obj/Debug/net6.0/lab1_Cross_platform.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sashashvydanenko/Desktop/crossplatforms/lab1_Cross_platform/lab1_Cross_platform/obj/Debug/net6.0/lab1_Cross_platform.AssemblyInfoInputs.cache
+/Users/sashashvydanenko/Desktop/crossplatforms/lab1_Cross_platform/lab1_Cross_platform/obj/Debug/net6.0/lab1_Cross_platform.AssemblyInfo.cs
+/Users/sashashvydanenko/Desktop/crossplatforms/lab1_Cross_platform/lab1_Cross_platform/obj/Debug/net6.0/lab1_Cross_platform.csproj.CoreCompileInputs.cache
+/Users/sashashvydanenko/Desktop/crossplatforms/lab1_Cross_platform/lab1_Cross_platform/obj/Debug/net6.0/lab1_Cross_platform.dll
+/Users/sashashvydanenko/Desktop/crossplatforms/lab1_Cross_platform/lab1_Cross_platform/obj/Debug/net6.0/refint/lab1_Cross_platform.dll
+/Users/sashashvydanenko/Desktop/crossplatforms/lab1_Cross_platform/lab1_Cross_platform/obj/Debug/net6.0/lab1_Cross_platform.pdb
+/Users/sashashvydanenko/Desktop/crossplatforms/lab1_Cross_platform/lab1_Cross_platform/obj/Debug/net6.0/lab1_Cross_platform.genruntimeconfig.cache
+/Users/sashashvydanenko/Desktop/crossplatforms/lab1_Cross_platform/lab1_Cross_platform/obj/Debug/net6.0/ref/lab1_Cross_platform.dll

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1_Cross_platform", "lab1_Cross_platform\lab1_Cross_platform.csproj", "{06C31D54-9EBB-4B13-A7A3-1140852C9C3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06C31D54-9EBB-4B13-A7A3-1140852C9C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C31D54-9EBB-4B13-A7A3-1140852C9C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C31D54-9EBB-4B13-A7A3-1140852C9C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C31D54-9EBB-4B13-A7A3-1140852C9C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

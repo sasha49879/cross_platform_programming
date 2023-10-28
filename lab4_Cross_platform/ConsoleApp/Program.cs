@@ -1,9 +1,9 @@
 ﻿using McMaster.Extensions.CommandLineUtils;
-using LabClassLibrary; // replace with the actual namespace of your class library
+using LabClassLibrary;
 
 namespace ConsoleApp
 {
-    [Command(Name = "YourApp", Description = "Your application description")]
+    [Command(Name = "ConsoleApp", Description = "Crossplatform_lab1-3")]
     [Subcommand(typeof(VersionCommand))]
     [Subcommand(typeof(RunCommand))]
     [Subcommand(typeof(SetPathCommand))]
@@ -25,8 +25,8 @@ namespace ConsoleApp
     {
         private void OnExecute(IConsole console)
         {
-            console.WriteLine("Author: Your Name");
-            console.WriteLine("Version: 1.0.0");
+            console.WriteLine("Author: Oleksandr Shvydanenko");
+            console.WriteLine("Version: 1.1.0");
         }
     }
 
